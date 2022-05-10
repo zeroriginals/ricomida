@@ -1,0 +1,127 @@
+/*navegador*/
+.bg-grey {
+    background-color: #373A3C;
+}
+
+.texto-logo {
+    font-family: 'Lobster', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    color: white;
+}
+
+.cabin-nav {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: white;
+}
+
+hr {
+    border: 1px solid;
+    color: #373A3C;
+    margin: 0;
+}
+
+/*menu recetas*/
+.cabin-menu {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: #373A3C;
+}
+
+.cabin-porcion {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: #373A3C;
+}
+
+#info-menu {
+    position: relative;
+}
+
+/*tooltip*/
+
+.botones-tooltip {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+/*carousel*/
+.carousel-indicators li {
+    width: 12px !important;
+    height: 12px !important;
+    border-radius: 50% !important;
+    background-color: black !important;
+}
+
+/*texto receta*/
+
+.receta-titulo {
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.25rem;
+    color: #373A3C;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+.recetas-texto {
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.25rem;
+    color: #373A3C;
+}
+
+/*card recetas*/
+
+.opciones-titulo {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: #373A3C;
+}
+
+.card-title {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 1.4rem;
+    color: #373A3C;
+}
+
+.card-text {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #373A3C;
+}
+
+/*newsletter*/
+
+.bg-rojo {
+    background-color: #DC3545;
+}
+
+.titulo-news {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+.texto-news {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 1.9rem;
+}
+
+.texto-ricomida {
+    font-family: 'Lobster', sans-serif;
+    font-weight: 400;
+    font-size: 1.9rem;
+}
+
+.py-6 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
